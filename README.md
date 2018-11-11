@@ -1,11 +1,10 @@
 # TestingGrounds
-##Smaller text test
 Readme test here 
-*test \n
+**bold test** \n
 [test]
 /Test
 		
-
+##Smaller text test
 Some basic Git commands are:
 ```
 git status
