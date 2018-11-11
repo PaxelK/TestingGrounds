@@ -4,7 +4,7 @@ Readme test here
 [test]
 /Test
 		
-##Smaller text test
+##Smaller text test  
 Some basic Git commands are:
 ```
 git status
