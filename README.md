@@ -1,5 +1,5 @@
 # TestingGrounds
-###Smaller test
+##Smaller text test
 Readme test here 
 *test \n
 [test]
